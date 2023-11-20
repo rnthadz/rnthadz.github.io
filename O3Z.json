@@ -1,0 +1,49 @@
+{
+  "result": [
+  {
+    "no": "1",
+    "name": "Renatha Adzuria Arimaya",
+    "birth_date": "2003-08-04",
+    "address": "Bekasi",
+    "zodiac": "Leo",
+    "fav_color": "Pink",
+    "Poster": "https://rnthadz.github.io/renatha.png"
+  },
+  {
+    "no": "2",
+    "name": "Lee Sohee",
+    "birth_date": "2003-11-21",
+    "address": "Gyeonggi",
+    "zodiac": "Scorpio",
+    "fav_color": "Orange",
+    "Poster": "https://rnthadz.github.io/sohee.jpg"
+  },
+  {
+    "no": "3",
+    "name": "Oh Haewon",
+    "birth_date": "2003-02-25",
+    "address": "Incheon",
+    "zodiac": "Pisces",
+    "fav_color": "White",
+    "Poster": "https://rnthadz.github.io/haewon.jpg"
+  },
+  {
+    "no": "4",
+    "name": "Hong Seunghan",
+    "birth_date": "2003-10-02",
+    "address": "Ilsan",
+    "zodiac": "Libra",
+    "fav_color": "Blue",
+    "Poster": "https://rnthadz.github.io/seunghan.jpg"
+  },
+  {
+    "no": "5",
+    "name": "Ahn Yujin",
+    "birth_date": "2003-09-01",
+    "address": "Daejeon",
+    "zodiac": "Virgo",
+    "fav_color": "Purple",
+    "Poster": "https://rnthadz.github.io/yujin.jpg"
+  }
+ ]
+}
